@@ -1,0 +1,15 @@
+F:\WebAPILayersTest\WebAPI\Business\bin\Debug\net5.0\Business.deps.json
+F:\WebAPILayersTest\WebAPI\Business\bin\Debug\net5.0\Business.dll
+F:\WebAPILayersTest\WebAPI\Business\bin\Debug\net5.0\ref\Business.dll
+F:\WebAPILayersTest\WebAPI\Business\bin\Debug\net5.0\Business.pdb
+F:\WebAPILayersTest\WebAPI\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+F:\WebAPILayersTest\WebAPI\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebAPILayersTest\WebAPI\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+F:\WebAPILayersTest\WebAPI\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+F:\WebAPILayersTest\WebAPI\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+F:\WebAPILayersTest\WebAPI\Business\obj\Debug\net5.0\Business.dll
+F:\WebAPILayersTest\WebAPI\Business\obj\Debug\net5.0\ref\Business.dll
+F:\WebAPILayersTest\WebAPI\Business\obj\Debug\net5.0\Business.pdb
+F:\WebAPILayersTest\WebAPI\Business\bin\Debug\net5.0\Model.dll
+F:\WebAPILayersTest\WebAPI\Business\bin\Debug\net5.0\Model.pdb
+F:\WebAPILayersTest\WebAPI\Business\obj\Debug\net5.0\Business.csproj.CopyComplete

@@ -1,0 +1,12 @@
+F:\WebAPILayersTest\WebAPI\Model\bin\Debug\net5.0\Model.deps.json
+F:\WebAPILayersTest\WebAPI\Model\bin\Debug\net5.0\Model.dll
+F:\WebAPILayersTest\WebAPI\Model\bin\Debug\net5.0\ref\Model.dll
+F:\WebAPILayersTest\WebAPI\Model\bin\Debug\net5.0\Model.pdb
+F:\WebAPILayersTest\WebAPI\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+F:\WebAPILayersTest\WebAPI\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebAPILayersTest\WebAPI\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+F:\WebAPILayersTest\WebAPI\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+F:\WebAPILayersTest\WebAPI\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+F:\WebAPILayersTest\WebAPI\Model\obj\Debug\net5.0\Model.dll
+F:\WebAPILayersTest\WebAPI\Model\obj\Debug\net5.0\ref\Model.dll
+F:\WebAPILayersTest\WebAPI\Model\obj\Debug\net5.0\Model.pdb
